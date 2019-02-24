@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Q Wallpapers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Q Wallpapers</string>
+    <string name="nav_header_subtitle">Developed by Malefic Circles</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Set Random Wallpaper</string>
+    <string name="title_activity_wallpaper">Wallpaper</string>
+</resources>
